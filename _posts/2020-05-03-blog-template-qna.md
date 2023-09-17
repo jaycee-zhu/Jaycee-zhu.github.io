@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 本博客模板常见问题 Q & A
+title: 今天天气非常好！
 categories: GitHub
-description: 使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。
+description: 今天天气非常好！个博客模板的朋友们时不时会提出一些问题，
 keywords: Jekyll, GitHub Pages
 topmost: true
 ---
@@ -67,7 +67,7 @@ mathjax: true
 
 以上四个开关分别对应 flowchart.js（流程图）、sequence-diagram.js（时序图）、mermaid 和 MathJax 的支持，按需开启即可，然后就可以在正文里正常画图了，展示效果可以参见 <https://mazhuang.org/wiki/markdown/>，对应写法参考源文件 <https://github.com/mzlogin/mzlogin.github.io/blob/master/_wiki/markdown.md>。
 
-## 如何修改代码高亮风格
+## 123
 
 可以通过 _config.yml 文件里的配置项 `highlight_theme` 来指定代码高亮风格，支持的风格名称列表参考我维护的另一个项目：
 
@@ -75,7 +75,7 @@ mathjax: true
 
 在项目主页可以看到每种风格的预览效果。
 
-## 代码高亮支持哪些语言
+## 234
 
 语言列表见 <https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers>，也可以自己运行 `rougify list` 命令查看最新列表。
 
