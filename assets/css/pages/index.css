@@ -1,6 +1,8 @@
 .home .banner,
 .home .site-header {
     background: #4183c4;
+    background-image: url('{{ site.url }}assets/images/bananer.jpg');
+    background-repeat: no-repeat;
     color: #fff
 }
 
