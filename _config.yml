@@ -7,13 +7,13 @@ date_format: "ordinal"
 title: 朱佳纯
 subtitle: "公众号：朱佳纯"
 description: "朱佳纯的个人博客，公众号：朱佳纯"
-keywords: 朱佳纯, Zhuang Ma, mzlogin, mazhuang, 朱佳纯
+keywords: 朱佳纯, blog, 个人博客, 朱佳纯
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: jaycee-zhu/Jaycee-zhu.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 朱佳纯的公众号
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: zhujiachun
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: zhujiachun
+location: Shenzhen, China
+email: caggwwy@gmail.com
 
 # ---------------- #
 #    Navigation    #
