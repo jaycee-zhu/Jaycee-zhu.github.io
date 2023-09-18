@@ -65,7 +65,7 @@ mathjax: true
 ---
 ```
 
-以上四个开关分别对应 flowchart.js（流程图）、sequence-diagram.js（时序图）、mermaid 和 MathJax 的支持，按需开启即可，然后就可以在正文里正常画图了，展示效果可以参见 <https://mazhuang.org/wiki/markdown/>，对应写法参考源文件 <https://github.com/mzlogin/mzlogin.github.io/blob/master/_wiki/markdown.md>。
+以上四个开关分别对应 flowchart.js（流程图）、sequence-diagram.js（时序图）、mermaid 和 MathJax 的支持，按需开启即可，然后就可以在正文里正常画图了，展示效果可以参见 <https://jaycee-zhu.github.io/wiki/markdown/>，对应写法参考源文件 <https://github.com/mzlogin/mzlogin.github.io/blob/master/_wiki/markdown.md>。
 
 ## 123
 
@@ -141,5 +141,5 @@ _config.yml 里的 components.qrcode 这一段用于控制二维码。
 - .yml 文件里有语法错误
 - .md 文件里有无意识引入的 Liquid 语法标记
 
-[1]: https://mazhuang.org/about/
-[2]: https://mazhuang.org/links/
+[1]: https://jaycee-zhu.github.io/about/
+[2]: https://jaycee-zhu.github.io/links/
