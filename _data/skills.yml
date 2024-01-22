@@ -1,19 +1,20 @@
-- name: Software Engineer Keywords
+- name: 海外市场营销
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - 策划推广方案
+      - 策划营销资料
+      - 海外社交媒体
+      - 外贸网站搭建
+      - 科技媒体
+      - 红人营销
 
-- name: Mobile Developer Keywords
+- name: 谷歌SEO
   keywords:
-      - Android
-      - Reverse Engineering
+      - 关键词调研
+      - 排名计划
+      - 外链搭建
+      - 网站架构UI优化
+      - 提升用户体验
 
-- name: Windows Developer Keywords
+- name: 谷歌SEM
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Google Ads

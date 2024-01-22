@@ -73,7 +73,7 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 成长日记 
 
   -
     href: /archives/
@@ -87,7 +87,7 @@ navs:
 
   -
     href: /fragments/
-    label: 片段
+    label: 职场感悟
 
   -
     href: /links/
