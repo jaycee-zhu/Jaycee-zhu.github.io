@@ -42,8 +42,7 @@ components:
         enabled: true
         image_alt: 朱佳纯的公众号
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
-    wiki:
-        view: cate
+ 
     # 图片灯箱效果功能
     fancybox:
         enabled: false
@@ -91,10 +90,6 @@ navs:
     label: 片段
 
   -
-    href: /wiki/
-    label: 维基
-
-  -
     href: /links/
     label: 链接
     mobile-hidden: true
@@ -130,9 +125,6 @@ plugins:
     - jemoji
 #     - jekyll-mentions
 collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
     fragments:
         output: true
         permalink: /fragment/:path/
