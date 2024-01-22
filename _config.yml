@@ -4,10 +4,10 @@
 baseurl:
 url: https://jaycee-zhu.github.io
 date_format: "ordinal"
-title: 朱佳纯
-subtitle: "公众号：朱佳纯"
-description: "朱佳纯的个人博客，公众号：朱佳纯"
-keywords: 朱佳纯, blog, 个人博客, 朱佳纯
+title: Jaycee'Blog
+subtitle: "Jaycee"
+description: "Jaycee Zhu"
+keywords: 朱佳纯, blog, 个人博客, Jayceezhu
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
