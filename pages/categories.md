@@ -6,9 +6,8 @@
 layout: page
 title: Diary
 =======
-layout: categories
+layout: page
 title: Categories
->>>>>>> parent of 3c1a69485 (更改):pages/categories.md
 description: 哈哈，你找到了我的文章基因库
 keywords: 分类
 comments: false
@@ -16,32 +15,6 @@ comments: false
 menu: 个人成长
 permalink: /diary/
 =======
-menu: 分类
-permalink: /categories/
->>>>>>> parent of 3c1a69485 (更改):pages/categories.md
-=======
-=======
->>>>>>> parent of 3c1a69485 (更改)
-layout: categories
-title: Categories
-description: 哈哈，你找到了我的文章基因库
-keywords: 分类
-comments: false
-menu: 分类
-permalink: /categories/
-<<<<<<< HEAD
->>>>>>> parent of 3c1a69485 (更改)
-=======
-layout: categories
-title: Categories
-description: 哈哈，你找到了我的文章基因库
-keywords: 分类
-comments: false
-menu: 分类
-permalink: /categories/
->>>>>>> parent of 3c1a69485 (更改)
-=======
->>>>>>> parent of 3c1a69485 (更改)
 ---
 
 <section class="container posts-content">
