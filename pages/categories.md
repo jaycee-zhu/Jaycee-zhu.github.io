@@ -1,11 +1,21 @@
 ---
+<<<<<<< HEAD:pages/diary.md
 layout: page
 title: Diary
+=======
+layout: categories
+title: Categories
+>>>>>>> parent of 3c1a69485 (更改):pages/categories.md
 description: 哈哈，你找到了我的文章基因库
-keywords: 个人成长，成长日记，记录生活
+keywords: 分类
 comments: false
+<<<<<<< HEAD:pages/diary.md
 menu: 个人成长
 permalink: /diary/
+=======
+menu: 分类
+permalink: /categories/
+>>>>>>> parent of 3c1a69485 (更改):pages/categories.md
 ---
 
 <section class="container posts-content">

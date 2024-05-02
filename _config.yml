@@ -72,20 +72,24 @@ navs:
     label: 首页
 
   -
-    href: /diary/
+    href: /categories/
     label: 个人成长
 
   -
+<<<<<<< HEAD
     href: /essays/
+=======
+    href: /archives/
+>>>>>>> parent of 3c1a69485 (更改)
     label: 生活感悟
     mobile-hidden: true
 
   -
-    href: /book_review/
+    href: /fragments/
     label: 读书笔记
 
   -
-    href: /marketing/
+    href: /categories/
     label: 海外市场营销
 
   -
