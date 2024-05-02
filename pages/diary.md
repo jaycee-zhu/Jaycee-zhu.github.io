@@ -1,10 +1,10 @@
 ---
-layout: 个人成长
-title: 个人成长
+layout: page
+title: Diary
 description: 哈哈，你找到了我的文章基因库
 keywords: 个人成长，成长日记，记录生活
 comments: false
-menu: 分类
+menu: 个人成长
 permalink: /diary/
 ---
 

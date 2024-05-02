@@ -76,7 +76,7 @@ navs:
     label: 个人成长
 
   -
-    href: /Essays/
+    href: /essays/
     label: 生活感悟
     mobile-hidden: true
 
