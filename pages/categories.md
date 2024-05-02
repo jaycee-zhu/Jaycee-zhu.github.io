@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:pages/diary.md
 layout: page
 title: Diary
@@ -17,6 +18,15 @@ permalink: /diary/
 menu: 分类
 permalink: /categories/
 >>>>>>> parent of 3c1a69485 (更改):pages/categories.md
+=======
+layout: categories
+title: Categories
+description: 哈哈，你找到了我的文章基因库
+keywords: 分类
+comments: false
+menu: 分类
+permalink: /categories/
+>>>>>>> parent of 3c1a69485 (更改)
 =======
 layout: categories
 title: Categories
