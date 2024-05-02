@@ -72,20 +72,20 @@ navs:
     label: 首页
 
   -
-    href: /categories/
+    href: /diary/
     label: 个人成长
 
   -
-    href: /archives/
+    href: /Essays/
     label: 生活感悟
     mobile-hidden: true
 
   -
-    href: /fragments/
+    href: /book_review/
     label: 读书笔记
 
   -
-    href: /categories/
+    href: /marketing/
     label: 海外市场营销
 
   -

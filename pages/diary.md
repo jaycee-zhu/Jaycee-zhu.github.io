@@ -1,11 +1,11 @@
 ---
-layout: categories
-title: Categories
+layout: 个人成长
+title: 个人成长
 description: 哈哈，你找到了我的文章基因库
-keywords: 分类
+keywords: 个人成长，成长日记，记录生活
 comments: false
 menu: 分类
-permalink: /categories/
+permalink: /diary/
 ---
 
 <section class="container posts-content">
