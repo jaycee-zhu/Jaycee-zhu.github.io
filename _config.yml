@@ -72,11 +72,11 @@ navs:
     label: 首页
 
   -
-    href: /categories/
+    href: /archives/
     label: 个人成长
 
   -
-    href: /archives/
+    href: /categories/
     label: 生活感悟
 
   -
