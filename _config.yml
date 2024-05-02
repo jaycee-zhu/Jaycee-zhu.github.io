@@ -76,29 +76,8 @@ navs:
     label: 个人成长
 
   -
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    href: /essays/
-=======
     href: /archives/
->>>>>>> parent of 3c1a69485 (更改)
-=======
-    href: /archives/
->>>>>>> parent of 3c1a69485 (更改)
-=======
-    href: /archives/
->>>>>>> parent of 3c1a69485 (更改)
-=======
-    href: /archives/
->>>>>>> parent of 3c1a69485 (更改)
-=======
-    href: /Essays/
->>>>>>> parent of 5bf0f3068 (改)
     label: 生活感悟
-    mobile-hidden: true
 
   -
     href: /fragments/
