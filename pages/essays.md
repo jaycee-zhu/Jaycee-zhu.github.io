@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 归档
+title: Essays
 description: 按年份归档
-keywords: 归档
+keywords: Essays
 comments: false
-menu: 归档
-permalink: /archives/
+menu: 生活感悟
+permalink: /Essays/
 ---
 
 <section class="container posts-content">
