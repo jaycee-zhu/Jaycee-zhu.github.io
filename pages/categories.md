@@ -3,8 +3,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD:pages/diary.md
-layout: page
-title: Diary
 =======
 layout: page
 title: Categories
