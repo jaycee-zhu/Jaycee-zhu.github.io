@@ -1,18 +1,11 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD:pages/diary.md
-=======
-layout: page
+layout: categories
 title: Categories
 description: 哈哈，你找到了我的文章基因库
 keywords: 分类
 comments: false
-<<<<<<< HEAD:pages/diary.md
-menu: 个人成长
+menu: 分类
 permalink: /diary/
-=======
 ---
 
 <section class="container posts-content">
