@@ -13,7 +13,7 @@ permalink: /marketing/
 
 {% assign tagliststr = '' %}
 {% for item in site.marketing %}
-{% if item.title != "Fragment Template" %}
+{% if item.title != "Marketing Template" %}
   {% for tag in item.tags %}
     {% if tagliststr contains tag %}
     {% else %}
@@ -30,7 +30,7 @@ permalink: /marketing/
 
 <ul class="listing">
 {% for item in site.marketing %}
-{% if item.title != "Fragment Template" %}
+{% if item.title != "Marketing Template" %}
 <li class="listing-item" tags="{% for tag in item.tags %}{{ tag }} {% endfor %}">
   <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
   {% for tag in item.tags %}
