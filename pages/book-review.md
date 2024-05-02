@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Fragments
-description: fragments 索引页
-keywords: fragments
+title: 读书笔记
+description: 读书笔记
+keywords: 读书笔记
 comments: false
 mermaid: false
 menu: 片段
-permalink: /fragments/
+permalink: /book-review/
 ---
 
-> 零散的知识，简短的观点，作为片段汇集于此。
+> 分享读书笔记。
 
 {% assign tagliststr = '' %}
-{% for item in site.fragments %}
+{% for item in site.book-review %}
 {% if item.title != "Fragment Template" %}
   {% for tag in item.tags %}
     {% if tagliststr contains tag %}
@@ -26,15 +26,15 @@ permalink: /fragments/
 
 {% assign taglist = tagliststr | split: ',' | sort_natural %}
 
-<a href="{{ site.url }}/fragments/" style="color:#888;display:inline-block;margin:0 8px;">全部</a>{% for tag in taglist %}<a href="{{ site.url }}/fragments/?tag={{ tag }}" style="color:#888;display:inline-block;margin:0 8px;">{{ tag }}</a>{% endfor %}
+<a href="{{ site.url }}/book-review/" style="color:#888;display:inline-block;margin:0 8px;">全部</a>{% for tag in taglist %}<a href="{{ site.url }}/book-review/?tag={{ tag }}" style="color:#888;display:inline-block;margin:0 8px;">{{ tag }}</a>{% endfor %}
 
 <ul class="listing">
-{% for item in site.fragments %}
+{% for item in site.book-review %}
 {% if item.title != "Fragment Template" %}
 <li class="listing-item" tags="{% for tag in item.tags %}{{ tag }} {% endfor %}">
   <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
   {% for tag in item.tags %}
-  <a style="font-size:12px;color:gray;font-style:italic;display:inline-block;margin:0 0 0 4px;padding:0 4px;background-color:lightgray;" href="{{ site.url }}/fragments/?tag={{ tag }}" title="{{ tag }}">{{ tag }}</a>
+  <a style="font-size:12px;color:gray;font-style:italic;display:inline-block;margin:0 0 0 4px;padding:0 4px;background-color:lightgray;" href="{{ site.url }}/book-review/?tag={{ tag }}" title="{{ tag }}">{{ tag }}</a>
   {% endfor %}
 </li>
 {% endif %}
