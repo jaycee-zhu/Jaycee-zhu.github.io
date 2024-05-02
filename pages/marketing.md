@@ -1,11 +1,11 @@
 ---
-layout: page
-title: 市场营销
+layout: 个人成长
+title: 个人成长
 description: 哈哈，你找到了我的文章基因库
 keywords: 个人成长，成长日记，记录生活
 comments: false
-menu: 市场营销
-permalink: /marketing/
+menu: 分类
+permalink: /diary/
 ---
 
 <section class="container posts-content">
