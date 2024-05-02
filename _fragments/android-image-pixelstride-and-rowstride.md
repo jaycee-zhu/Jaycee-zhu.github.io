@@ -1,9 +1,9 @@
 ---
 layout: fragment
-title: Android Image 里的 pixelStride 和 rowStride
-tags: [android]
-description: 理解 pixelStride 和 rowStride
-keywords: Android, ImageReader, pixelStride, rowStride
+title: 适合跨境卖家的AI工具
+tags: [AI工具]
+description: 适合跨境卖家的AI工具
+keywords: AI工具
 mermaid: false
 sequence: false
 flow: false
@@ -12,29 +12,56 @@ mindmap: false
 mindmap2: false
 ---
 
-当我们从屏幕上拿到截图：
+## 1.ChatGPT
 
-```java
-Image image = imageReader.acquireNextImage();
-ImagePlane[] planes = image.getPlanes();
+超强大的AI聊天工具
 
-int width = image.getWidth();
-int height = image.getHeight();
+技能：无所不知，无所不能，有时候也胡说八道。
 
-if (planes.length > 0) {
-    int pixelStride = planes[0].getPixelStride();
-    int rowStride = planes[0].getRowStride();
-}
-```
+网址：https://chat.openai.com/auth/login
 
-rowStride：每行数据的跨度；
+演示教程1：https://v.douyin.com/DwSxDgr/
 
-pixelStride：相邻像素样本之间的距离；
+演示教程2：https://v.douyin.com/DwS4fbT/
 
-所以理论上应该有 `rowStride / pixelStride == width`？
+## 2.Flair
 
-但实际上并非一定成立，也有可能 `rowStride > pixelStride * width`，在 width 像素右侧可能填充的有若干空白像素。
+产品场景图AI工具
 
-这个表现与具体设备有关。
+技能：可以给产品一键添加背景图,编缉场景
 
-参考：<https://blog.csdn.net/weixin_42510962/article/details/114215062>
+网址：https://app.flair.ai/login
+
+演示教程： https://v.douyin.com/DwBfEVR/
+
+## 3.Midjourney
+
+出色的AI绘画工具
+
+技能：适合创意，摄影，包装。。。。
+
+网址：https://www.midjourney.com/
+
+演示教程1： https://v.douyin.com/DwBggpH/
+
+演示教程2：https://v.douyin.com/DwS2yrN/
+
+## 4.Pixian
+
+免费扣图网站
+
+技能：将图片拉入网站，就能快速扣好图片，下载高清图片，关键免费
+
+网址：https://pixian.ai/
+
+演示教程： https://v.douyin.com/DwS2VU4/
+
+## 5.heygen
+
+多语言电商视频生成工具
+
+技能：将亚马逊链接输入提示框，一链生成产品营销视频
+
+网址：https://www.heygen.com/
+
+演示教程： https://v.douyin.com/UF53jGm/
