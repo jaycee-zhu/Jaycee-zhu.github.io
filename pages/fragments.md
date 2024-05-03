@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Fragments
-description: fragments 索引页
-keywords: fragments
+title: 海外市场营销
+description: 海外市场营销
+keywords: 海外市场营销
 comments: false
 mermaid: false
 menu: 片段
-permalink: /fragments/
+permalink: /marketing/
 ---
 
 > 零散的知识，简短的观点，作为片段汇集于此。
